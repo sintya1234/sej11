@@ -31,5 +31,6 @@ class AddColumnsToUsersTable extends Migration
             $table->dropColumn('is_login');
             $table->dropColumn('is_active');
         });
+        //lalalala
     }
 }
